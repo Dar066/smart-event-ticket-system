@@ -1,0 +1,6 @@
+gradio
+pandas
+qrcode
+reportlab
+pillow
+python-dotenv
